@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi, I’m Diana Orjuela! :cat2:
 
+- :baggage_claim: Business Administration at **Politécnico Grancolombiano**
+- :gem: Business Intelligence Project Management at **Politécnico Grancolombiano**
+
+Open-Source :heartpulse: 
+Wants more empathy & kindness in open source. 
+- *:dart: Focuses on ML & BI tools: Python, Matlab, SQL, Teradata, Power BI, Tableau.*
+
+📫 diana.orjuela@outlook.com
 <!--
 **DIANA-7/DIANA-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
