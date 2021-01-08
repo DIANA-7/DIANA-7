@@ -5,7 +5,7 @@
 
 Open-Source :heartpulse: 
 Wants more empathy & kindness in open source. 
-- *:dart: Focuses on ML & BI tools: Python, Matlab, SQL, Teradata, Power BI, Tableau.*
+- *:dart: Focuses on ML & BI tools: Python, Matlab, SQL, Power BI, Tableau, Knime, Spark MLlib.*
 
 📫 diana.orjuela@outlook.com
 <!--
