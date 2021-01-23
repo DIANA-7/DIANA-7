@@ -2,7 +2,7 @@
 :cat2:
 
 - 🎓 Business Administration at **Politécnico Grancolombiano**
-- :gem: Business Intelligence Project Management at **Politécnico Grancolombiano**
+- :gem: Business Intelligence Project Management (Postgraduate Degree) at **Politécnico Grancolombiano**
 
 Open-Source :heartpulse: 
 💼 Significant background in insurance industry. 
