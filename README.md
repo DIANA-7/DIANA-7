@@ -1,7 +1,7 @@
 ### Hi, I’m Diana Orjuela ☺️
 :cat2:
 
-- 🎓 Business Administration (Bachelor of Business Administration - BBA)
+- 🎓 Bachelor of Business Administration - BBA
 - :gem: Business Intelligence Project Management (Postgraduate Degree)
 
 Open-Source :heartpulse: 
