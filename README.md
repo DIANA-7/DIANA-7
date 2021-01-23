@@ -1,9 +1,11 @@
-### Hi, I’m Diana Orjuela! :cat2:
+### Hi, I’m Diana Orjuela
+:cat2:
 
-- :baggage_claim: Business Administration at **Politécnico Grancolombiano**
+- :🎓: Business Administration at **Politécnico Grancolombiano**
 - :gem: Business Intelligence Project Management at **Politécnico Grancolombiano**
 
 Open-Source :heartpulse: 
+💼 Significant background in insurance industry. 
 Wants more empathy & kindness in open source. 
 - *:dart: Focuses on data analysis tools for ML & BI projects: Python, Matlab, SQL, Microsoft Excel, Power BI, Tableau, Knime, Spark MLlib.*
 
