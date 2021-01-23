@@ -7,7 +7,7 @@
 Open-Source :heartpulse: 
 - 💼 Significant background in insurance industry. 
 Wants more empathy & kindness in open source. 
-- *:dart: Focuses on data analysis tools for ML & BI projects: Python, Matlab, SQL, Microsoft Excel, Power BI, Tableau, Knime, Spark MLlib.*
+- *:dart: Focuses on data analysis, ML & BI projects with some tools as follows: Python, Matlab, SQL, Microsoft Excel, Power BI, Tableau, Knime, Spark MLlib.*
 
 📫 diana.orjuela@outlook.com
 <!--
