@@ -5,7 +5,7 @@
 - :gem: Business Intelligence Project Management (Postgraduate Degree) at **Politécnico Grancolombiano**
 
 Open-Source :heartpulse: 
-💼 Significant background in insurance industry. 
+- 💼 Significant background in insurance industry. 
 Wants more empathy & kindness in open source. 
 - *:dart: Focuses on data analysis tools for ML & BI projects: Python, Matlab, SQL, Microsoft Excel, Power BI, Tableau, Knime, Spark MLlib.*
 
