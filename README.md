@@ -4,9 +4,8 @@
 - 🎓 Bachelor of Business Administration - BBA
 - :gem: Business Intelligence Project Management (Postgraduate Degree)
 
-Open-Source :heartpulse: 
-- 💼 Significant background in insurance industry. 
-Wants more empathy & kindness in open source. 
+Open-Source :heartpulse: Wants more empathy & kindness in open source.
+- 💼 Significant background in insurance industry.  
 - *:dart: Focuses on data analysis, ML & BI projects with some tools as follows: Python, Matlab, SQL, Microsoft Excel, Power BI, Tableau, Knime, Spark MLlib.*
 
 📫 diana.orjuela@outlook.com
