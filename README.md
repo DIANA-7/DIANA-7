@@ -1,8 +1,8 @@
 ### Hi, I’m Diana Orjuela ☺️
 :cat2:
 
-- 🎓 Business Administration at **Politécnico Grancolombiano**
-- :gem: Business Intelligence Project Management (Postgraduate Degree) at **Politécnico Grancolombiano**
+- 🎓 Business Administration (Bachelor of Business Administration - BBA)
+- :gem: Business Intelligence Project Management (Postgraduate Degree)
 
 Open-Source :heartpulse: 
 - 💼 Significant background in insurance industry. 
