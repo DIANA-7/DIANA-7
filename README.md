@@ -1,7 +1,7 @@
-### Hi, I’m Diana Orjuela
+### Hi, I’m Diana Orjuela ☺️
 :cat2:
 
-- :🎓: Business Administration at **Politécnico Grancolombiano**
+- 🎓 Business Administration at **Politécnico Grancolombiano**
 - :gem: Business Intelligence Project Management at **Politécnico Grancolombiano**
 
 Open-Source :heartpulse: 
