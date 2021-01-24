@@ -1,5 +1,5 @@
 ### Hi, I’m Diana Orjuela ☺️
-:cat2:
+🐱‍💻
 
 - 📈 Bachelor of Business Administration - BBA
 - :gem: Business Intelligence Project Management (Postgraduate Degree)
