@@ -1,11 +1,11 @@
 ### Hi, I’m Diana Orjuela ☺️
 :cat2:
 
-- 🎓 Bachelor of Business Administration - BBA
+- 📈 Bachelor of Business Administration - BBA
 - :gem: Business Intelligence Project Management (Postgraduate Degree)
 
-Open-Source :heartpulse: 
-- Wants more empathy & kindness in open data 📈, open content and open knowledge 🕮.
+Open data :heartpulse: 
+- Wants more empathy & kindness in open content and open knowledge 🕮.
 
 - 💼 Significant background in insurance industry.  
 - *:dart: Focuses on data analysis, ML & BI projects with some tools as follows: Python, Matlab, SQL, Microsoft Excel, Power BI, Tableau, Knime, Spark MLlib.*
