@@ -5,7 +5,7 @@
 - :gem: Business Intelligence Project Management (Postgraduate Degree)
 
 Open data :heartpulse: 
-- Wants more empathy & kindness in open content and open knowledge 🕮.
+- Lifelong learner 🕮.
 
 - 💼 Significant background in insurance industry.  
 - *:dart: Focuses on data analysis, ML & BI projects with some tools as follows: Python, Matlab, SQL, Microsoft Excel, Power BI, Tableau, Knime, Spark MLlib.*
