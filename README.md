@@ -10,7 +10,7 @@ Open data :heartpulse:
 - 💼 Significant background in insurance industry.  
 - *:dart: Focuses on data analysis, ML & BI projects with some tools as follows: Python, Matlab, SQL, Microsoft Excel, Power BI, Tableau, Knime, Spark MLlib.*
 
-📫 diana.orjuela@outlook.com
+
 <!--
 **DIANA-7/DIANA-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
