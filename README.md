@@ -4,7 +4,7 @@
 - 🐱‍💻 Application Programming Technician and Cloud Services
 - 📈 Bachelor of Business Administration - BBA
 - :gem: Business Intelligence Project Management (Postgraduate Degree)
-- 🐱‍💻:ladybug: Specialization in Software Engineering with Emphasis on Testing
+- 🐱‍💻🪲 Specialization in Software Engineering with Emphasis on Testing
 
 Open data :heartpulse: 
 - Lifelong learner 🕮.
